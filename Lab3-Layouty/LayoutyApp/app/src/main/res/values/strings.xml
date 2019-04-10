@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LayoutyApp</string>
+    <string name="constraint">Witam na constraint-layout activity</string>
+    <string name="frame">Witam</string>
+    <string name="button_do_frame">Przejdź do frame-layout</string>
+    <string-array name="spinner1">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string name="radio">To jest radiobutton</string>
+    <string name="swittch">To jest switch</string>
+    <string name="checkbox">To jest checkbox</string>
+
+</resources>
