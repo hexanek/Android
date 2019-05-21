@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Messanger</string>
+    <string name="button">Wejdź do messengera</string>
+    <string name="hello">Witam serdecznie </string>
+    <string name="message">Wpisz tekst wiadomości</string>
+    <string name="wyslij_button">Wyślij wiadomość</string>
+    <string name="button_autor">o Autorze...</string>
+    <string name="autor">by Artur Lewandowski</string>
+</resources>
